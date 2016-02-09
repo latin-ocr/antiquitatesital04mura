@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital04mura_0106.png"; bbox 0 0 2279 3006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 463 223 480 247">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 463 223 480 247">
+     <span class='ocr_line' id='line_1_1' title="bbox 463 223 480 247; baseline 24 0"><span class='ocrx_word' id='word_1_1' title='bbox 463 223 480 247; x_wconf 66' lang='grc' dir='ltr'>ιλ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 613 282 689 301">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 613 282 689 301">
+     <span class='ocr_line' id='line_1_2' title="bbox 613 282 689 301; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 613 282 689 301; x_wconf 48' lang='grc' dir='ltr'>,ηιμῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 572 337 600 350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 572 337 600 350">
+     <span class='ocr_line' id='line_1_3' title="bbox 572 337 600 350; baseline -0.036 -3"><span class='ocrx_word' id='word_1_3' title='bbox 572 337 600 350; x_wconf 41' lang='grc' dir='ltr'>ωλι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1458 1099 1465 1111">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1458 1099 1465 1111">
+     <span class='ocr_line' id='line_1_4' title="bbox 1458 1099 1465 1111"><span class='ocrx_word' id='word_1_4' title='bbox 1458 1099 1465 1111; x_wconf 75' lang='grc' dir='ltr'>ι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2146 0 2279 3006">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2146 0 2279 3006">
+     <span class='ocr_line' id='line_1_5' title="bbox 2146 0 2279 3006"><span class='ocrx_word' id='word_1_5' title='bbox 2146 0 2279 3006; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
